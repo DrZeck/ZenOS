@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Platform
+    url: https://zenplatform.dev
+    about: Visit the ZenOS platform
+  - name: General Questions
+    url: https://github.com/DrZeck/ZenOS/discussions
+    about: Ask questions in Discussions
