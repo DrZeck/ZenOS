@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Platform-zenplatform.dev-blue?style=for-the-badge)](https://zenplatform.dev)
 [![Fee](https://img.shields.io/badge/Fee-1%25-green?style=for-the-badge)]()
 [![GitHub Issues](https://img.shields.io/github/issues/DrZeck/ZenOS?style=for-the-badge)](https://github.com/DrZeck/ZenOS/issues)
-[![GitHub Release](https://img.shields.io/github/v/release/DrZeck/ZenOS?style=for-the-badge)](https://github.com/DrZeck/ZenOS/releases)
+[![Release](https://img.shields.io/github/v/tag/DrZeck/ZenOS?label=release&style=for-the-badge)](https://github.com/DrZeck/ZenOS/releases)
 
 ---
 
