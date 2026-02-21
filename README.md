@@ -21,6 +21,16 @@ Just a web dashboard where you point, click, and mine.
 
 ---
 
+## Screenshots
+
+### Normal View
+![Dashboard Normal](screenshots/dashboard-normal.png)
+
+### Compact View
+![Dashboard Compact](screenshots/dashboard-compact.png)
+
+---
+
 ## Quick Start
 
 1. **Register** at [zenplatform.dev](https://zenplatform.dev)
