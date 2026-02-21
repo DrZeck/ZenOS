@@ -44,20 +44,6 @@ Total setup time: ~2 minutes.
 
 ---
 
-## Features
-
-| Feature | Description |
-|---------|-------------|
-| **3-Click Setup** | Pool, wallet, save. That's it. |
-| **Auto-Setup** | Configure all unconfigured rigs at once |
-| **Web Dashboard** | Monitor all rigs from one place |
-| **Real-time Stats** | Hashrate, temperature, shares, uptime |
-| **Remote Control** | Start/stop/reboot from anywhere |
-| **Debug Mode** | See everything on the rig's monitor |
-| **TLS Support** | Secure pool connections |
-
----
-
 ## Pricing
 
 **1% miner fee** - covers the entire platform.
