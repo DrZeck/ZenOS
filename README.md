@@ -159,15 +159,15 @@ Pre-compiled binaries available in [Releases](https://github.com/DrZeck/ZenOS/re
 
 Found a bug? Have a suggestion?
 
-👉 [Open an issue](https://github.com/DrZeck/ZenOS/issues)
+[Open an issue](https://github.com/DrZeck/ZenOS/issues)
 
 ---
 
 ## Links
 
-- 🌐 **Platform:** https://zenplatform.dev
-- 📥 **Releases:** https://github.com/DrZeck/ZenOS/releases
-- 🐛 **Issues:** https://github.com/DrZeck/ZenOS/issues
+**Platform:** https://zenplatform.dev
+**Releases:** https://github.com/DrZeck/ZenOS/releases
+**Issues:** https://github.com/DrZeck/ZenOS/issues
 
 ---
 
