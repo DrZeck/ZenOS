@@ -11,7 +11,7 @@
 
 ## What is ZenOS?
 
-ZenOS is a complete CPU mining platform. Boot from USB, configure your rig in 3 clicks, start mining.
+ZenOS is a complete CPU mining platform focused on simplicity.
 
 - **No config files**
 - **No command line**
@@ -36,9 +36,9 @@ Just a web dashboard where you point, click, and mine.
 1. **Register** at [zenplatform.dev](https://zenplatform.dev)
 2. **Download** your personalized ISO
 3. **Flash** to USB ([Rufus](https://rufus.ie/) or [Etcher](https://etcher.balena.io/))
-4. **Boot** your PC from USB
-5. **Configure** in dashboard: select pool → select wallet → save
-6. **Done.** Mining starts automatically.
+4. **Boot** your RIG from USB
+5. **Configure** in dashboard: read HELP for all information
+6. **Done.**
 
 Total setup time: ~2 minutes.
 
@@ -46,32 +46,43 @@ Total setup time: ~2 minutes.
 
 ## Pricing
 
-**1% miner fee** - covers the entire platform.
+**1% miner fee**
 
-No subscriptions. No per-rig costs. No hidden fees.
+This covers:
+
+- ZenOS development
+- Dashboard infrastructure
+- ZenRX optimization
+- Updates and maintenance
+
+No subscriptions.  
+No per-rig costs.  
+No hidden fees.
 
 ---
 
 ## Multiple Rigs?
 
-Boot all your rigs. In the dashboard, click **Auto-Setup**. 
+Boot all your rigs. In the dashboard, click **AUTOSETUP**. 
 
-All unconfigured rigs get the same pool and wallet instantly.
-
-50 rigs? Same 3 clicks.
+Follow instructions to setup all rigs at once.
 
 ---
 
 ## Transparency
 
-Don't trust, verify.
+Enable **Debug Mode** in rig settings.
 
-Enable **Debug Mode** in rig settings. The connected monitor shows everything:
-- Pool connections
-- Hashrate
-- Shares submitted
-- Algorithm
-- Everything the miner does
+The connected monitor will display:
+
+- User pool connections  
+- Dev pool connections  
+- Hashrates  
+- Timings  
+- User shares  
+- Dev shares  
+
+All mining activity is visible in real time.
 
 ---
 
@@ -79,24 +90,22 @@ Enable **Debug Mode** in rig settings. The connected monitor shows everything:
 
 ZenRX is the miner that powers ZenOS. Optimized for RandomX.
 
-### Releases
-
-Pre-compiled binaries available in [Releases](https://github.com/DrZeck/ZenOS/releases):
-
-| Platform | File |
-|----------|------|
-| Linux | `zenrx-linux-x64.tar.gz` |
-| Windows | `zenrx-windows-x64.zip` |
-
 ### Standalone Usage
 
 You can run ZenRX outside of ZenOS:
 
 ```bash
-./zenrx -o pool.address:port -u YOUR_WALLET -p rig_name
+./zenrx -o pool.address:port -u your_wallet -p rig_name
 ```
 
-See `./zenrx --help` for all options.
+```cmd
+zenrx.exe -o pool.address:port -u your_wallet -p rig_name
+```
+---
+
+### Releases
+
+Pre-compiled binaries available in [Releases](https://github.com/DrZeck/ZenOS/releases):
 
 ---
 
@@ -136,7 +145,7 @@ See `./zenrx --help` for all options.
 > Everything.
 
 **Can I use my own pool?**
-> No. Only pool presets in UI.
+> No. Only pool presets in UI ( custom pools usage will be added later )
 
 **How do I know the miner isn't doing something shady?**
 > Enable Debug Mode. Everything is displayed on the rig's monitor.
@@ -164,7 +173,7 @@ Found a bug? Have a suggestion?
 
 ## License
 
-ZenRX binaries are provided as-is.
+ZenRX binaries are provided AS-IS.
 
 ---
 
