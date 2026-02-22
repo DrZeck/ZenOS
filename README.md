@@ -1,6 +1,6 @@
 # ZenOS
 
-**CPU Mining Platform - Boot, Click, Mine.**
+**CPU MINING PLATFORM**
 
 [![Website](https://img.shields.io/badge/Platform-zenplatform.dev-blue?style=for-the-badge)](https://zenplatform.dev)
 [![Fee](https://img.shields.io/badge/Fee-1%25-green?style=for-the-badge)]()
