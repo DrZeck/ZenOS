@@ -133,7 +133,7 @@ Pre-compiled binaries available in [Releases](https://github.com/DrZeck/ZenOS/re
 ## System Requirements
 
 - x86_64 CPU (Intel or AMD)
-- 4GB+ RAM
+- 8GB+ RAM
 - USB port
 - Network connection
 
