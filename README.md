@@ -5,7 +5,6 @@
 [![Website](https://img.shields.io/badge/Platform-zenplatform.dev-blue?style=for-the-badge)](https://zenplatform.dev)
 [![Fee](https://img.shields.io/badge/Fee-1%25-green?style=for-the-badge)]()
 [![GitHub Issues](https://img.shields.io/github/issues/DrZeck/ZenOS?style=for-the-badge)](https://github.com/DrZeck/ZenOS/issues)
-[![Release](https://img.shields.io/github/v/tag/DrZeck/ZenOS?label=release&style=for-the-badge)](https://github.com/DrZeck/ZenOS/releases)
 
 ---
 
@@ -86,29 +85,6 @@ All mining activity is visible in real time.
 
 ---
 
-## ZenRX Miner
-
-ZenRX is the miner that powers ZenOS. Optimized for RandomX.
-
-### Standalone Usage
-
-You can run ZenRX outside of ZenOS:
-
-```bash
-./zenrx -o pool.address:port -u your_wallet -p rig_name
-```
-
-```cmd
-zenrx.exe -o pool.address:port -u your_wallet -p rig_name
-```
----
-
-### Releases
-
-Pre-compiled binaries available in [Releases](https://github.com/DrZeck/ZenOS/releases):
-
----
-
 ## Supported Pools
 
 **Presets:**
@@ -166,14 +142,5 @@ Found a bug? Have a suggestion?
 ## Links
 
 - **Platform:** https://zenplatform.dev
-- **Releases:** https://github.com/DrZeck/ZenOS/releases
 
 ---
-
-## License
-
-ZenRX binaries are provided AS-IS.
-
----
-
-**Made by DrZeck**
